@@ -7,7 +7,7 @@ Following the steps of chronologically of compression:  <br />
 (c) = compression <br />
 (d) = decompression <br />
 <br />
-readwriteppma <br />
+readwriteppm <br />
         (c) reads the ppm image in for compression  <br />
                 - stores in Pnm_ppm <br />
         (d) writes the ppm to stdout after it has been decompression <br />
