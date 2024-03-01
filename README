@@ -1,21 +1,8 @@
 
 /**********************************************************
-* Homework 4: arith
-* CS 40
-* README
-* Kaelen Song (ksong05), Esther Khair (ekhair01)
+arith
+* Kaelen Song, Esther Khair
 *********************************************************/
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-//* * Acknowledgements: * *\\
-
-Office Hours
-        -Julia, Valerie, Dan, Alex, Neil, Therodore, Tim, Joshua, Trevor, Zane
-                                                        (possibly others)
-Professor's lectures on...
-        -machine arithmetic
-        -bits and bitpacking, big-endian
-Hansen textbook:
-        uarray and assertions
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 //* * What has been correctly implemented and what has not * *\\
 We believe everything has been correctly implemented, however our image
